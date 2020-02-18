@@ -5,8 +5,8 @@
 
 ## Discription
 
-This is my first task with programming language C++ - realitation of Class Pointer, that have:
+This is my first task with programming language C++ - realitation of Class ComplexNums, that have:
 * Constructor
 * Destructor
-* Function to find distance betwen two points
-* Overload cout to display dots
+* Overloads of all operators are implemented
+* Fuction of output
